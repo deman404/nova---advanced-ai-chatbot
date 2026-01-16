@@ -1,0 +1,7 @@
+{
+  "name": "Nova - Advanced AI Chatbot",
+  "description": "A sophisticated conversational AI powered by Gemini 3 Flash, featuring real-time streaming, context-aware dialogue, sentiment analysis, and a comprehensive analytics dashboard.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
